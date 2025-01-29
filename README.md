@@ -58,10 +58,6 @@ The structure of this repository is designed to mirror the blog's content. Each 
 
 While this repository is primarily a resource to accompany my blog posts, I welcome constructive feedback, suggestions, and collaboration opportunities. If you have ideas or improvements, feel free to submit an issue or pull request.
 
-### License
-
-All files in this repository are released under [MIT License](./LICENSE) unless otherwise stated. Please ensure proper attribution if you use any material from this repository.
-
 ## About Me
 
 I am Ifaz Fachrul H., a Master's student in Finance with a strong background in IT infrastructure and data-driven research. I run a data center equipped with Proxmox and an Armbian cluster, blending advanced IT technologies with my finance research. My goal is to contribute to the field by publishing in Q1 journals while sharing my journey and insights through [kangifaz.com](https://kangifaz.com).
